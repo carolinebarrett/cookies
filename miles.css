@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(230, 231, 232);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
+
+  .navigation {
+    background-color: lightgray;
+    height: 50px;
+    text-align: center;
+    font-size: 30px;
+}
